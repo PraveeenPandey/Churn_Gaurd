@@ -27,7 +27,7 @@ The primary objective of this project is to predict customer churn based on hist
 ### Running the API
 To run the Flask API, execute the following command:
 
-python app.py
+python FlaskPredictiveService.py
 
 
 By default, the API runs on http://localhost:5000.
